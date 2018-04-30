@@ -1,6 +1,6 @@
 # GraduateAssignment
 
-###Tables
+Tables
                     
 First Header  | Second Header
 ------------- | -------------
