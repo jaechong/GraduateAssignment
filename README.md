@@ -11,6 +11,12 @@ Content Cell  | Content Cell
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+ -------- | ------------------------------------ 
+ Tab      | Auto-complete files and folder names 
+ Ctrl + C | Kill whatever you are running        
+ Ctrl + D | Exit the current shell               
+
 # Cheat Sheet for Assignments
 # Steps for Assignments
 ## Step 1: local working directory
