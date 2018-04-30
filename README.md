@@ -1,5 +1,5 @@
 # Graduate Assignment
-# CSCE-31 Teaching Tips
+# CSCI E-31 Teaching Tips
 
 The following two topics tips should help the students taking CSCI-E31 course:
 - Create Assignments Cheatsheets
