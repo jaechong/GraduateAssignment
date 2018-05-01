@@ -154,9 +154,9 @@ nohup node bin/www &
  mv [old] [new]  | Move/Rename, e.g. mv -v [file] [dir]
  mkdir [dir]     | Create new directory
  rmdir [dir]     | Remove directory ( only operates on empty directories )
- rm -R [dir]     | Remove directory and contents 
- > [file]        | Push output to file, keep in mind it will get overwritten 
- >> [file]       | Append output to existing file 
- <               | Tell command to read content from a file 
- [command] -h | Offers help 
+ rm -R [dir]     | Remove directory and contents
+| > [file]        | Push output to file, keep in mind it will get overwritten 
+| >> [file]       | Append output to existing file 
+| <               | Tell command to read content from a file 
+ [command] -h    | Offers help 
  clear           | Clears the terminal display
