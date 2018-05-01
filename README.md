@@ -33,7 +33,17 @@ $ npm init
 ```
 $ npm install --save express
 ```
-- For development, update package.json to add "start-dev" to automatically restart the server when the code changes.
+- To use Express Generator to prepare all the packages 
+```
+$ sudo npm install -g <directory_name>
+```
+- To use pug templates
+```
+$ express --view=pug <myapp_name>
+```
+- Testing your app on your browser on port 8080
+```
+ For development, update package.json to add "start-dev" to automatically restart the server when the code changes.
 ```
   "scripts": {
     "start": "node ./bin/www",
@@ -45,16 +55,6 @@ $ npm install --save express
 $ npm run start
 or 
 $ npm run start-dev
-```
-- To use Express Generator to prepare all the packages and 
-```
-$ sudo npm install -g <directory_name>
-```
-- To use pug templates
-```
-$ express --view=pug <myapp_name>
-```
-- Testing your app on your browser on port 8080
 ```
 http://localhost:8080
 ```
@@ -103,7 +103,7 @@ $ git clone https://github.com/assignment-1-getting-your-environment-set-up.git
 ```
 - Navigate to your directory, in this example, assignment-1-getting-your-environment-set-up
 ```
-$ cd assignment-1-getting-your-environment-set-up.git
+$ cd assignment-1-getting-your-environment-set-up
 ```
 - construct node modules using package.json
 ```
